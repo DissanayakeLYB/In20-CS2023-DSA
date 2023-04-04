@@ -1,14 +1,14 @@
 #include <iostream>
 #include <chrono>
 
-#define MAX_SIZE 100
+#define arr_size 100
 
-int stack[MAX_SIZE]; //capacity of the stack
+int stack[arr_size]; //capacity of the stack
 int top = -1; //initially stack is empty
 
 //push adds an element to the top of the stack
 void Push(int value) {
-    if (top >= MAX_SIZE - 1) {
+    if (top >= arr_size - 1) {
         std::cout << "Error: Stack overflow\n";
         return;
     }
@@ -31,7 +31,7 @@ bool isEmpty() {
 
 //returns whether the stack is full or not
 bool isFull() {
-    return top >= MAX_SIZE - 1;
+    return top >= arr_size - 1;
 }
 
 //returns the top element of the stack
