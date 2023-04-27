@@ -10,4 +10,4 @@ This  includes the codes  used to implement the **"Print in reverse"** exercise 
 This folder includes the code which I used to solve the **In class lab 7** exercises of BST.  
 
 ## HackerRank Lab 7
-This  includes the codes used to implement the **"Binary Search Tree - Inversion"** exercise in HackerRank lab 7. 
+This  includes the codes used to implement the **"Binary Search Tree - Inversion"** and **Tree - Huffman Decoding** exercises in HackerRank lab 7. 
