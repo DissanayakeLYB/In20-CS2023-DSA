@@ -11,3 +11,6 @@ This folder includes the code which I used to solve the **In class lab 7** exerc
 
 ## HackerRank Lab 7
 This  includes the codes used to implement the **"Binary Search Tree - Inversion"** and **"Tree - Huffman Decoding"** exercises in HackerRank lab 7. 
+
+## In Class Test 8
+This folder includes the code which I used to solve the **In class lab 8**, consists of exercises of Heap Sort.
