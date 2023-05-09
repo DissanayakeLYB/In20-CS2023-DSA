@@ -11,6 +11,9 @@ This folder includes the code which I used to solve the **In class lab 7** exerc
 *In Class Test 8 -*
 This folder includes the code which I used to solve the **In class lab 8**, consists of exercises of Heap Sort.
 
+*In Class Test 9 -*
+This folder includes the code which I used to solve the **In class lab 9**, consists of exercises of Hash Tables.
+
 
 
 **HackerRank Labs :-**
