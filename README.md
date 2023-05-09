@@ -13,7 +13,7 @@ This folder includes the code which I used to solve the **In class lab 8**, cons
 
 
 
-#HackerRank Labs :-
+**HackerRank Labs :-**
 
 *HackerRank Lab 2 -*
 This  includes the codes used to implement the **"2D Array - DS"**, **"Array - DS"** and **"Left Rotation"** exercises in HackerRank lab 2. 
