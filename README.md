@@ -38,3 +38,6 @@ This  includes the codes used to implement the **"Binary Search Tree - Inversion
 
 *HackerRank Lab 8 -*
 This  includes the codes used to implement the **"QHEAP1"** and **"Jesse and Cookies"** exercises in HackerRank lab 8. 
+
+*HackerRank Lab 9 -*
+This  includes the codes used to implement the **"strings"** exercise in HackerRank lab 9. 
