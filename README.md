@@ -14,6 +14,8 @@ This folder includes the code which I used to solve the **In class lab 8**, cons
 *In Class Test 9 -*
 This folder includes the code which I used to solve the **In class lab 9**, consists of exercises of Hash Tables.
 
+*In Class Test 10 -*
+This folder includes the code which I used to solve the **In class lab 10**, consists of exercises of Groups.
 
 
 **HackerRank Labs :-**
