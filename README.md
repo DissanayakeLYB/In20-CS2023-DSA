@@ -2,16 +2,16 @@
 
 **In Class Tests :-**
 
-*In Class Test 6 -* 
+*In Class Test 06 -* 
 This folder includes the code which I used to solve the **In class lab 6** exercieses.  
 
-*In Class Test 7 -*
+*In Class Test 07 -*
 This folder includes the code which I used to solve the **In class lab 7** exercises of BST.  
 
-*In Class Test 8 -*
+*In Class Test 08 -*
 This folder includes the code which I used to solve the **In class lab 8**, consists of exercises of Heap Sort.
 
-*In Class Test 9 -*
+*In Class Test 09 -*
 This folder includes the code which I used to solve the **In class lab 9**, consists of exercises of Hash Tables.
 
 *In Class Test 10 -*
@@ -43,3 +43,6 @@ This  includes the codes used to implement the **"QHEAP1"** and **"Jesse and Coo
 
 *HackerRank Lab 9 -*
 This  includes the codes used to implement the **"strings"** exercise in HackerRank lab 9. 
+
+*HackerRank Lab 10 -*
+This  includes the codes used to implement the **"Roads and Libraries"** exercise in HackerRank lab 10. 
