@@ -17,6 +17,8 @@ This folder includes the code which I used to solve the **In class lab 9**, cons
 *In Class Test 10 -*
 This folder includes the code which I used to solve the **In class lab 10**, consists of exercises of Groups.
 
+*In Class Test 11 -*
+This folder includes the code which I used to solve the **In class lab 11**, consists of exercises of MST.
 
 **HackerRank Labs :-**
 
