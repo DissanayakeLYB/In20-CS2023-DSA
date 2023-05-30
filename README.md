@@ -20,6 +20,9 @@ This folder includes the code which I used to solve the **In class lab 10**, con
 *In Class Test 11 -*
 This folder includes the code which I used to solve the **In class lab 11**, consists of exercises of MST.
 
+*In Class Test 12 -*
+This folder includes the code which I used to solve the **In class lab 12**, consists of exercises of SSSP.
+
 **HackerRank Labs :-**
 
 *HackerRank Lab 2 -*
@@ -48,3 +51,6 @@ This  includes the codes used to implement the **"strings"** exercise in HackerR
 
 *HackerRank Lab 10 -*
 This  includes the codes used to implement the **"Roads and Libraries"** exercise in HackerRank lab 10. 
+
+*HackerRank Lab 11 -*
+This  includes the codes used to implement the **"Breadth First Search - Shortest Reach"** exercise in HackerRank lab 11. 
