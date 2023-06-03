@@ -54,3 +54,6 @@ This  includes the codes used to implement the **"Roads and Libraries"** exercis
 
 *HackerRank Lab 11 -*
 This  includes the codes used to implement the **"Breadth First Search - Shortest Reach"** exercise in HackerRank lab 11. 
+
+*HackerRank Lab 12 -*
+This  includes the codes used to implement the **"Day of the Programmer"** exercise in HackerRank lab 11. 
